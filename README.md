@@ -6,13 +6,13 @@
 
 ---
 
-## Features / Momiyzat
+## Features
 
 - **TikTok LIVE** — connection with username, room, and viewers
 - **Live stats** — gifts, diamonds, likes, and engagement in real time
 - **In-game overlay** — LIVE battle / plugin experience inside the game
 - **OBS ads** — push text, image, or GIF ads from the admin panel
-- **License key** — activate with your key (Cryptolens)
+- **License key** — activate with your key
 - **Launcher** — simple Start LIVE flow, ready in a few clicks
 
 ---
